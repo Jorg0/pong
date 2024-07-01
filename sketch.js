@@ -107,7 +107,7 @@ function colisaoRaquete(){
       velocidadeX -=5;
     }
     if (velocidadeY >0){
-      velocidaeY += 1;
+      velocidadeY += 1;
     } else
       velocidadeY -=5;
   }
